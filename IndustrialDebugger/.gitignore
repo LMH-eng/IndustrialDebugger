@@ -1,0 +1,34 @@
+# Build directories
+build/
+bin/
+lib/
+cmake-build-debug/
+cmake-build-release/
+
+# IDE files
+.vscode/
+.idea/
+*.pro.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vcxproj
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Makefile
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Temporary files
+*~
+*.swp
+*.log

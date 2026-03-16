@@ -1,0 +1,17 @@
+release/main.o
+release/MainWindow.o
+release/NetworkManager.o
+release/TcpClient.o
+release/TcpServer.o
+release/UdpClient.o
+release/SerialPortManager.o
+release/DataProcessor.o
+release/LogManager.o
+release/moc_MainWindow.o
+release/moc_NetworkManager.o
+release/moc_TcpClient.o
+release/moc_TcpServer.o
+release/moc_UdpClient.o
+release/moc_SerialPortManager.o
+release/moc_DataProcessor.o
+release/moc_LogManager.o

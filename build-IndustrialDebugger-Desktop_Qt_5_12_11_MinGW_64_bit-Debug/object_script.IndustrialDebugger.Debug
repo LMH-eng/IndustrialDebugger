@@ -1,0 +1,17 @@
+debug/main.o
+debug/MainWindow.o
+debug/NetworkManager.o
+debug/TcpClient.o
+debug/TcpServer.o
+debug/UdpClient.o
+debug/SerialPortManager.o
+debug/DataProcessor.o
+debug/LogManager.o
+debug/moc_MainWindow.o
+debug/moc_NetworkManager.o
+debug/moc_TcpClient.o
+debug/moc_TcpServer.o
+debug/moc_UdpClient.o
+debug/moc_SerialPortManager.o
+debug/moc_DataProcessor.o
+debug/moc_LogManager.o
